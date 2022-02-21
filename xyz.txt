@@ -1,1 +1,5 @@
 This is existing project.
+<<<<<<< HEAD
+=======
+This edit from remote.
+>>>>>>> e1cfa48fcd323f12723b0b659c691c999162a09a
